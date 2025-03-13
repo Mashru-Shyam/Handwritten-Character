@@ -1,5 +1,5 @@
 ---
-title: Handwritten Character Classification
+title: Handwritten Character Recognition
 emoji: 🔤
 colorFrom: blue
 colorTo: purple
@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-# Handwritten-Character-Classification
+# Handwritten-Character-Recognition
 
 ## Overview
 
