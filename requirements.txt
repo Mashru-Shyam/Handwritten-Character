@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+datetime
+scikit-learn
+tensorflow
+keras
+torch
+datasets
+pillow
+datasets
+gradio
