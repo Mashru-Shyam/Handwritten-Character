@@ -1,0 +1,9 @@
+# Ignore model files
+*.h5
+*.pkl
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore gradio files
+.gradio/
