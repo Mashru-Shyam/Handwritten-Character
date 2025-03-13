@@ -1,9 +1,0 @@
-datasets
-numpy
-pandas
-matplotlib
-scikit-learn
-tensorflow
-keras
-seaborn
-pickle-mixin
