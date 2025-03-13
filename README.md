@@ -1,3 +1,14 @@
+---
+title: Handwritten Character Classification
+emoji: 🔤
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: "3.50.0"
+app_file: app.py
+pinned: false
+---
+
 # Handwritten-Character-Classification
 
 ## Overview
@@ -19,7 +30,8 @@ The **MNIST** dataset consists of 70,000 images of handwritten digits (0-9), eac
 
 Each image is a grayscale image and is labeled with the digit it represents.
 
-You can download the dataset from the official [MNIST page](http://yann.lecun.com/exdb/mnist/) or load it directly using popular libraries such as TensorFlow or Keras.
+You can download the datasets from link below:
+👉 **[Datasets](https://huggingface.co/datasets/Shyam-Mashru/Minist-Dataset)**
 
 ## Algorithms Implemented
 
@@ -50,12 +62,15 @@ You can download the dataset from the official [MNIST page](http://yann.lecun.co
 - **K-value**: Tuned for optimal performance.
 - **Classification**: Majority voting among the K nearest neighbors.
 
-## Installation
+## Demo
 
-1. **Clone the repository**:
+Click the link below to try out the live model:  
+👉 **[Live Demo](https://huggingface.co/spaces/Shyam-Mashru/Handwritten-Character-Recognition)**
 
-   git clone https://github.com/Shyam-Mashru/Handwritten-Character-Classification.git
-   cd handwritten-character-classification
+Try using the models from:
+👉 **[Models](https://huggingface.co/Shyam-Mashru/Classification)**
+
+- You can also view this project preprocessing in the Handwritten-Character-Recognition.ipynb & run the file to get the results.
 
 ## Results
 
